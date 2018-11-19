@@ -9,12 +9,17 @@ contributor:
     birthdate: 1869
     gutenberg_agent_id: '1464'
     url: http://www.gutenberg.org/2009/agents/1464
+covers:
+- cover_type: archival
+  image_path: 58231-h/images/cover.jpg
 creator:
   author:
     agent_name: Roujon, Jacques
     gutenberg_agent_id: '49842'
     url: http://www.gutenberg.org/2009/agents/49842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58231#Battles-Bivouacs-A-French-soldier-s-note-book
 gutenberg_issued: '2018-11-04'
 gutenberg_type: Text
 identifiers:
